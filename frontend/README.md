@@ -42,4 +42,4 @@ React frontend for the Todo management application.
 
 ```bash
 npm install
-npm run dev - run for Frontend
+npm run dev - run for Frontend(Fully)
